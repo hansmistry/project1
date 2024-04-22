@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712396087 source:c:\users\abc\desktop\clng\mesg print\mesg print\main.c
+	<stdio.h>
+	<stdlib.h>
+
